@@ -78,5 +78,22 @@ background-position: bottom;
     vertical-align: top;
     position: absolute;
     top: 5%;
-    
+
+}
+.card-title{
+    color: chartreuse;
+}
+.card-text{
+    color: white;
+}
+.card{
+ 
+    background-color: #000000bd;
+}
+.card img{
+    height: 200px;
+}
+.btn-outline-primary {
+    color: chartreuse;
+    border-color: chartreuse;
 }
